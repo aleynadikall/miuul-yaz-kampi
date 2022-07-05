@@ -44,6 +44,11 @@ def sum_calculate(arg1, arg2):
     Returns:
         int, float
 
+    Examples:
+        Eklenebilir. (Opsiyonel)
+
+    Notes:
+        Eklenebilir. (Opsiyonel)
     """
 
     print(arg1 + arg2)
