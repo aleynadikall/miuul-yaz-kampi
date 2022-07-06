@@ -11,6 +11,7 @@ range(0, 5)
 for i in range(0, 5):
     print(i)
 
+
 # Ekran Çıktısı:
 # 0
 # 1
