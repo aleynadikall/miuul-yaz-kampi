@@ -1,4 +1,4 @@
-# ODEV 1
+# ODEV 1 : Komut Satırında Python Kodu Çalıştırma
 
 print("Merhaba, ben Aleyna Dikal")
 
@@ -9,6 +9,8 @@ print("Merhaba, ben Aleyna Dikal")
 # menüde hi.py dosyası hangi klasördeyse o klasöre sağ tuş ile tıklayıp şu seçimi yapınız: "open in > terminal".
 # PyCharm'ın alt tarafında terminal ekranı açılacak. Şu anda hi.py dosyası ile aynı dizindesiniz (klasörde).
 # Görev4: Konsola python hi.py yazarak, python kodunuzu çalıştırınız.
+
+
 
 
 
