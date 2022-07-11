@@ -32,7 +32,7 @@ df.iloc[0:3]
 
 df.iloc[0, 0]       # 0
 
-# loc: label based selection
+# loc: label based selection : Mutlak olarak isimlendirmenin kendisini seçer.
 df.loc[0:3]
 #    survived  pclass     sex   age  sibsp  parch     fare embarked  class  \
 # 0         0       3    male  22.0      1      0   7.2500        S  Third
