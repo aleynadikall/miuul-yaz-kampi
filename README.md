@@ -1,8 +1,8 @@
 # miuul-yaz-kampi
 VAHİT KESKİN - Miuul Machine Learning Summer Camp'
 
-Week - 1
-Python Programming for Data Science - Part 1
+
+Python Programming for Data Science - 1
 
     Topics
     Working Environment Settings
@@ -11,9 +11,8 @@ Python Programming for Data Science - Part 1
     Loops
     Comprehensions
     
-    
-Week - 2
-Python Programming for Data Science - Part 2
+
+Python Programming for Data Science - 2
 
     Topics
     Data Analysis with Python: Numpy
@@ -22,7 +21,6 @@ Python Programming for Data Science - Part 2
     Data Analysis with Python: Advanced Functional Exploratory Data Analysis
    
     
-Week - 3
 Feature Engineering
 
     Topics
@@ -32,7 +30,6 @@ Feature Engineering
     Feature Extraction
     
     
-Week - 4
 Machine Learning
 
     Topics
