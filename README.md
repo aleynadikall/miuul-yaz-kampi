@@ -1,5 +1,7 @@
 # miuul-yaz-kampi
-VAHİT KESKİN - Miuul Machine Learning Summer Camp'
+VAHİT KESKİN - Miuul Machine Learning Summer Camp
+
+ALEYNA DİKAL
 
 
 Python Programming for Data Science - 1
